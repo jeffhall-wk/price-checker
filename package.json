@@ -1,0 +1,23 @@
+{
+  "name": "price-checker",
+  "version": "1.0.0",
+  "description": "Demo puppeteer script that checks prices on Amazon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffhall-wk/price-checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffhall-wk/price-checker/issues"
+  },
+  "homepage": "https://github.com/jeffhall-wk/price-checker#readme",
+  "dependencies": {
+    "puppeteer": "^1.4.0",
+    "sleep": "^5.1.1"
+  }
+}
